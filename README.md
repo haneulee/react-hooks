@@ -8,7 +8,7 @@ This project is a react hooks practice tutorial.
 - [x] useHover
 - [x] usePreventLeave
 - [x] useConfirm
-- [ ] usePageLeave
+- [x] useBeforeLeave
 - [ ] useClick
 - [ ] useFadeIn
 - [ ] useFullscreen
