@@ -6,8 +6,8 @@ This project is a react hooks practice tutorial.
 - [x] useTitle
 - [x] useClick
 - [x] useHover
-- [ ] usePreventLeave
-- [ ] useConfirm
+- [x] usePreventLeave
+- [x] useConfirm
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
