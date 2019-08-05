@@ -13,5 +13,5 @@ This project is a react hooks practice tutorial.
 - [x] useFullscreen
 - [x] useNetwork
 - [x] useScroll
-- [ ] useNotification
+- [x] useNotification
 - [ ] useAxios
