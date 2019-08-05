@@ -1,0 +1,29 @@
+{
+  "name": "@react-hooks-practice/use-axios",
+  "version": "1.0.0",
+  "description": "react hook to use axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneulee/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "hooks",
+    "axios"
+  ],
+  "author": "Haneul Lee <lovesky4294@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haneulee/react-hooks/issues"
+  },
+  "homepage": "https://github.com/haneulee/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
