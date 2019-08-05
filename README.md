@@ -14,4 +14,4 @@ This project is a react hooks practice tutorial.
 - [x] useNetwork
 - [x] useScroll
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
